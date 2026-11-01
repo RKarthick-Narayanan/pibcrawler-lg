@@ -1,0 +1,49 @@
+project: pib_language_discourse
+start_date: '1999-01-01'
+end_date: '2026-10-28'
+language: en
+
+# Fourteen distinct research categories. Each variant is a separate PIB request.
+terms:
+  - id: endangered_languages
+    label: Endangered languages
+    variants: ['endangered languages']
+  - id: dialect
+    label: Dialect
+    variants: ['dialect']
+  - id: dialects
+    label: Dialects
+    variants: ['dialects']
+  - id: mother_tongue
+    label: Mother tongue
+    variants: ['mother tongue', 'mother-tongue']
+  - id: tribal_languages
+    label: Tribal languages
+    variants: ['tribal languages']
+  - id: tribal_language
+    label: Tribal language
+    variants: ['tribal language']
+  - id: tribal_dialect
+    label: Tribal dialect
+    variants: ['tribal dialect']
+  - id: tribal_dialects
+    label: Tribal dialects
+    variants: ['tribal dialects']
+  - id: regional_language
+    label: Regional language
+    variants: ['regional language']
+  - id: regional_languages
+    label: Regional languages
+    variants: ['regional languages']
+  - id: eighth_schedule
+    label: Eighth Schedule
+    variants: ['Eighth Schedule']
+  - id: linguistic_surveys
+    label: Linguistic survey(s)
+    variants: ['linguistic survey', 'linguistic surveys']
+  - id: mother_tongue_surveys
+    label: Mother-tongue survey(s)
+    variants: ['mother-tongue survey', 'mother-tongue surveys', 'mother tongue survey', 'mother tongue surveys']
+  - id: language_surveys
+    label: Language survey(s)
+    variants: ['language survey', 'language surveys']
